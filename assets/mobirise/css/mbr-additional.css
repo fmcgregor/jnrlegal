@@ -1,8 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 
 
 
@@ -423,9 +423,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #ffffff;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -510,9 +507,10 @@ h6,
 }
 #msg-box5-l .btn {
   font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
 }
 #footer1-2 P {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 #content5-f .mbr-section-title,
 #content5-f p {
@@ -522,6 +520,16 @@ h6,
   font-family: 'Oxygen', sans-serif;
   font-size: 36px;
 }
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -598,32 +606,77 @@ h6,
 #ext_menu-n .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
-#features3-10 P {
-  text-align: left;
-  font-size: 20px;
-  font-family: 'Raleway', sans-serif;
+#features6-1r H4 {
+  color: #5b5b5b;
 }
-#features3-10 SPAN {
-  text-align: left;
-  font-size: 24px;
+#header3-1w .mbr-section-title,
+#header3-1w .mbr-section-subtitle {
+  text-align: center;
 }
-#features3-10 H4 {
-  text-align: left;
+#header3-1w H3 {
+  color: #bdcfe4;
 }
-#features3-10 DIV {
-  font-size: 22px;
+#header3-1w SMALL {
+  color: #bdcfe4;
+}
+#msg-box5-1n H3 {
+  font-family: 'Oxygen', sans-serif;
+  color: #5b5b5b;
+}
+#msg-box5-1n .btn {
   font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
 }
-#features3-z P {
-  text-align: left;
-  font-size: 20px;
+#msg-box5-1o H3 {
+  font-family: 'Oxygen', sans-serif;
+  color: #5b5b5b;
 }
-#features3-z SPAN {
-  text-align: left;
+#msg-box5-1o .btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
 }
-#features3-z H4 {
-  text-align: left;
+#msg-box5-1p H3 {
+  font-family: 'Oxygen', sans-serif;
+  color: #5b5b5b;
 }
+#msg-box5-1p .btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+}
+#msg-box5-1s H3 {
+  font-family: 'Oxygen', sans-serif;
+  color: #5b5b5b;
+}
+#msg-box5-1s .btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+}
+#msg-box5-1v H3 {
+  font-family: 'Oxygen', sans-serif;
+  color: #5b5b5b;
+}
+#msg-box5-1v .btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+}
+#msg-box5-1u H3 {
+  font-family: 'Oxygen', sans-serif;
+  color: #5b5b5b;
+}
+#msg-box5-1u .btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -703,4 +756,146 @@ h6,
 }
 #content5-13 .mbr-section-title {
   font-family: 'PT Serif', serif;
+}
+#features1-16 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #cddbea;
+}
+#features1-16 .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 25px;
+}
+#features1-16 .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #5b5b5b;
+  font-size: 18px;
+}
+#features1-16 .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #5b5b5b;
+  font-size: 18px;
+  font-family: 'Lora', serif;
+}
+#features1-16 .mbr-cards-col:nth-child(odd) .card-text {
+  color: #5b5b5b;
+  font-family: 'Lora', serif;
+  font-size: 18px;
+}
+#features1-16 .mbr-cards-col:nth-child(even) .card-title {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 25px;
+}
+#features1-16 .mbr-cards-col:nth-child(even) .card-text {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  color: #5b5b5b;
+}
+#features1-1m .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
+}
+#features1-1m .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 25px;
+}
+#features1-1m .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #5b5b5b;
+  font-size: 18px;
+}
+#features1-1m .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #5b5b5b;
+  font-size: 18px;
+  font-family: 'Lora', serif;
+}
+#features1-1m .mbr-cards-col:nth-child(odd) .card-text {
+  color: #5b5b5b;
+  font-family: 'Lora', serif;
+  font-size: 18px;
+}
+#features1-1m .mbr-cards-col:nth-child(even) .card-title {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 25px;
+}
+#features1-1m .mbr-cards-col:nth-child(even) .card-text {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  color: #5b5b5b;
+}
+
+
+
+#content5-1f .mbr-section-title,
+#content5-1f p {
+  color: #fff;
+}
+#content5-1f .mbr-section-title {
+  font-family: 'PT Serif', serif;
+}
+#menu-18 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-18 .navbar-caption {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 19px;
+}
+#menu-18 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-18 .link,
+#menu-18 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#menu-18 .link {
+  font-size: 1.1rem;
+}
+#menu-18 .dropdown-item,
+#menu-18 .nav-dropdown-sm .link {
+  font-size: 1.191rem;
+}
+#menu-18 .link:hover,
+#menu-18 .dropdown-item:hover,
+#menu-18 .link:focus,
+#menu-18 .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-18 .link[aria-expanded="true"],
+#menu-18 .dropdown-menu {
+  background: #153457;
+}
+#menu-18 .nav-dropdown-sm .link:focus,
+#menu-18 .nav-dropdown-sm .link:hover,
+#menu-18 .nav-dropdown-sm .dropdown-item:focus,
+#menu-18 .nav-dropdown-sm .dropdown-item:hover {
+  background: #1c4674!important;
+}
+#menu-18 .navbar,
+#menu-18 .nav-dropdown-sm,
+#menu-18 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-18 .nav-dropdown-sm .dropdown-menu {
+  background: #1f4d80;
+}
+#menu-18 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-18 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-18 .bg-color.transparent.opened .link:hover,
+#menu-18 .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#menu-18 .link[aria-expanded="true"],
+#menu-18 .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#menu-18.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-18 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-18 .close-icon::before,
+#menu-18 .close-icon::after {
+  background-color: #ffffff;
 }
